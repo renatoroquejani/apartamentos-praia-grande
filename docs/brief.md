@@ -9,3 +9,7 @@ Endereço conferido no Google Maps pelo CID 9648847485321508269: Avenida Preside
 Mídia original preservada em Downloads; versões do site em dist/assets/kit-928. MP4 H.264/AAC com faststart, preload none, sem autoplay. Futuramente substituir por embeds YouTube se forem fornecidos links, sem publicar vídeos em conta de terceiros.
 
 Verificação: integridade de links/assets e conteúdo, HTTP 200, navegação real no navegador, foco/teclado, inspeção desktop e largura estreita quando disponível, players nativos. Site portátil: basta publicar dist em qualquer hospedagem estática.
+
+## Revisão solicitada em 17/10
+
+Marca pública alterada para Apartamentos Praia Grande. Fernanda permanece no contato. Solicitação posterior adiciona modal de fotos com setas e foco em mobile; portanto autoriza o pequeno gallery.js estático, sem dependências. Foto atual é tratada por GPT Image; link de original disponível. Os dois vídeos agora aparecem como um só passeio, com 2 min 02 s. Fontes arquivadas em media/originais.

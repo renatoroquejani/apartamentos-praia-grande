@@ -1,6 +1,6 @@
 # aptospg.com.br
 
-Zona criada em 17/10/2026 na conta de Renato Roquejani, plano gratuito da Cloudflare. Cadastro confirmado pelo painel; a ativação aguarda o registro e a delegação no Registro.br.
+Zona criada em 17/10/2026 na conta de Renato Roquejani, plano gratuito da Cloudflare. Registro, delegação e ativação confirmados. GitHub Pages serve https://aptospg.com.br com HTTPS obrigatório.
 
 Servidores atribuídos:
 
@@ -17,10 +17,12 @@ Registros salvos e conferidos no painel, todos em modo Somente DNS:
 | A | @ | 185.199.111.153 |
 | CNAME | www | renatoroquejani.github.io |
 
-Após concluir o registro e ativar a delegação, vincular aptospg.com.br ao GitHub Pages do repositório renatoroquejani/apartamentos-praia-grande, conferir o DNS e a emissão do certificado e ativar Enforce HTTPS quando disponível. Atualizar os og:image para a origem nova. O domínio personalizado ainda não foi ativado no GitHub para preservar o endereço atual enquanto o registro está pendente.
+Domínio personalizado aptospg.com.br configurado no GitHub Pages, com certificado emitido para o domínio principal e www. Redirecionamentos HTTP → HTTPS e www → domínio principal conferidos. Metadados de compartilhamento usam a origem nova.
 
 Referência: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
 ## Ativação
 
 Registro e pagamento confirmados pelo usuário. Consulta pública confirmou NS elma/kip, os quatro A do GitHub Pages e o CNAME www. Domínio aptospg.com.br vinculado ao repositório GitHub Pages; metadados atualizados para a nova origem.
+
+Verificação final: seis páginas HTML e imagem tratada responderam HTTP 200 por HTTPS com validação de certificado. Catálogo conferido no navegador. Deploy do commit a0a08d4 concluído com sucesso (run 39080888869).

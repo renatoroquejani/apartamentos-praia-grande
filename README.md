@@ -8,7 +8,12 @@ Na pasta locacoes, execute `python3 -m http.server 4173 --directory dist` e abra
 
 ## Publicar
 
-Publique o conteúdo de dist em qualquer hospedagem estática. A configuração .openai/hosting.json registra a hospedagem Sites usada nesta conversa. Se trocar o domínio, atualize og:image nos dois HTMLs.
+Site: https://renatoroquejani.github.io/apartamentos-praia-grande/
+Repositório: https://github.com/renatoroquejani/apartamentos-praia-grande
+
+Alterações em dist enviadas à main são publicadas automaticamente pelo workflow .github/workflows/pages.yml, sem instalar dependências ou executar build. Só dist é publicado; documentação e arquivos de preparo permanecem no repositório. O Pages está configurado para GitHub Actions. Use links terminados em .html para compartilhar páginas de imóveis.
+
+A configuração .openai/hosting.json preserva a identificação da hospedagem Sites anterior. A publicação atual usa GitHub Pages. Se trocar o domínio, atualize og:image em todos os HTMLs.
 
 ## Atualizar imóveis
 

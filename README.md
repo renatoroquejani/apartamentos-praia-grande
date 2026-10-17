@@ -27,3 +27,7 @@ O visualizador usa dialog nativo com gallery.js: setas, Esc, foco restaurado, bl
 ## Kitnet 1027
 
 Página kitnet-1027.html com dois vídeos no início, sem galeria de fotos. A capa do catálogo é um quadro do vídeo. Vídeos e posters em dist/assets/kit-1027; originais em media/originais/kit-1027. A faixa de telefone foi substituída pelo contato da Fernanda com autorização do usuário. Para reproduzir o preparo, execute python3 docs/preparar-kit-1027.py com FFmpeg disponível. A arte do contato fica em media/kit-1027-contato.png.
+
+## Kitnet 2014
+
+Cobertura no 20º andar com sacada em L: kitnet-2014.html. Três fotos originais com galeria, vídeo de passeio e vídeo da vista separados. Mídia em dist/assets/kit-2014. Para reproduzir a substituição da faixa de telefone, execute python3 docs/preparar-kit-2014.py com FFmpeg disponível. Os originais são mantidos em media/originais/kit-2014.

@@ -41,3 +41,15 @@ As verificações anteriores sobre um único player descrevem uma versão substi
 - Layout de 320 px conferido por iframe real: título, capacidade, andar e contato sem corte. Em celular os vídeos ficam empilhados. Sem teste em aparelho físico.
 - Auditoria estática frontend strict: zero achados. git diff --check sem erros. Sem novos scripts no navegador ou dependências.
 - FFmpeg disponível não tem filtro drawtext; a faixa gráfica de contato foi renderizada com biblioteca já instalada e incorporada por overlay. Script de preparo e PNG preservados no projeto.
+
+## Kitnet 2014 — terceira unidade
+
+- Catálogo contém 928, 1027 e 2014; navegação real pelo link Conheça a cobertura confirmada no IAB.
+- Nova página identifica 20º andar, cobertura, sacada em L e até seis pessoas; capacidade confirmada no texto incorporado ao vídeo.
+- Três fotos originais, sem tratamento generativo. Galeria percorre 1/3 → 2/3 → 3/3 por teclado e Esc fecha com foco restaurado ao link original.
+- Dois vídeos independentes H.264/AAC, 480×848, 59,582 s e 15,023 s. Decodificação integral dos dois sem erros. Cropdetect indica quadro inteiro, sem faixas pretas a remover.
+- IAB confirmou reprodução com tempo avançando: primeiro 3,68 s, segundo 0,13 s, ambos sem erros de mídia.
+- Inspeção do poster final confirma o contato da Fernanda na faixa do primeiro vídeo; segundo vídeo sem telefone original preservado. Arquivos de compartilhamento copiados e conferidos por tamanho em Downloads/Kitnet 2014 - Videos para WhatsApp.
+- Telas de 390 e 320 px conferidas em iframes reais; título, galeria e contato visíveis e proporcionais. Sem teste de gesto em aparelho físico.
+- Todos os quatro HTMLs passam em validação de arquivos, fragmentos e uma h1 por página. Nova página tem três links de foto, dois vídeos e WhatsApp com unidade 2014 e número correto.
+- Auditoria estática frontend strict: zero achados. Sem dependências ou alterações em CSS/JS compartilhados.

@@ -21,3 +21,9 @@ Atualização posterior: usuário prefere cortar faixas ou voltar a vídeos sepa
 Nova unidade informada pelo usuário: Kit 1027, 10º andar, até 6 pessoas, mesmo endereço e descrição geral da unidade anterior. Foram recebidos somente dois vídeos, sem fotos. A capa do catálogo e os posters são quadros dos vídeos, sem geração de fotografias por IA. Vídeos verticais de 480×848, 29,26 s e 38,29 s, sem faixas pretas adicionadas.
 
 Arquivos localizados em Downloads/KIT 1027. Fontes preservadas em media/originais/kit-1027. O usuário autorizou expressamente substituir o telefone gravado nos vídeos pelo contato da Fernanda: (19) 99961-5553. Faixa substituída em x=232,y=800,248×48; áudio, enquadramento e demais legendas preservados. Script de reprodução: docs/preparar-kit-1027.py; arte de contato: media/kit-1027-contato.png.
+
+## Kitnet 2014 — 17/10/2026
+
+Terceira unidade: Kitnet 2014, 20º andar, cobertura com sacada em L, conforme usuário. Vídeo do passeio identifica a porta 2014 e informa 06 pessoas; capacidade mantida em até 6. Mesmo edifício e equipamentos gerais da coleção, com endereço já confirmado. Recebidos três JPEGs originais e dois vídeos, 59,58 s e 15,02 s, ambos verticais 480×848, sem faixas pretas embutidas.
+
+Fotos publicadas sem tratamento generativo: sacada com mar, mesa na sacada e banheiro. Modal compartilhado com a unidade 928. O primeiro vídeo tinha o número anterior na faixa x=224,y=755,256×42; substituído pelo contato da Fernanda seguindo a preferência explícita da unidade 1027. O segundo vídeo não tinha telefone e foi preservado. Áudio e demais legendas mantidos. Fontes em media/originais/kit-2014; script docs/preparar-kit-2014.py e arte media/kit-2014-contato.png. Cópias para compartilhar salvas em Downloads/Kitnet 2014 - Videos para WhatsApp.

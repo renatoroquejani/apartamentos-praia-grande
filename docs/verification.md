@@ -62,3 +62,12 @@ As verificações anteriores sobre um único player descrevem uma versão substi
 - Layouts reais de iframe de 320 e 390 px inspecionados: título, status e contato sem corte. Sem teste em aparelho físico.
 - Cinco HTMLs validados: arquivos e fragmentos resolvem, uma h1 por página; nova página com um player e contatos corretos.
 - Reutilizados template e controles existentes; sem dependências novas ou build/typecheck de framework.
+
+## Apartamento de 3 dormitórios — 11º andar
+
+- Catálogo e nova página testados por navegação real. Galeria com 14 fotos, setas, retorno 1 → 14 → 1 e Esc com foco restaurado; miniaturas adicionais expandem.
+- Sete interiores tratados com GPT Image: inspeção lado a lado dos ambientes, móveis e vistas, sem alteração material identificada. Os originais estão disponíveis em cada foto; detalhes finos continuam sujeitos às limitações de tratamento generativo.
+- Viewports de iframe de 320 e 390 px: título e contato fixo legíveis; modal de 320 px exibe foto inteira, fechar e setas. Próximo confirmou foto tratada e link para original. Sem teste em aparelho físico.
+- Vídeo H.264/AAC horizontal, 848×480, 33,855 s; sem telefone ou barras nas amostras. Remux preserva conteúdo e qualidade, full decode sem erros; IAB reproduzindo em 6,89 s. Não mostra quartos ou banheiros e está descrito como sala/vista. Cópia para WhatsApp verificada por SHA-256.
+- Seis HTMLs validados: arquivos e fragmentos resolvem, uma h1 por página. Nova página tem 14 fotos, um modal, um player e WhatsApp com contato/unidade descritiva corretos. node --check gallery.js e git diff --check passaram. Auditoria premium strict: zero achados.
+- Reutilizados template, dialog e galeria existentes; sem novas dependências. CSS adicional só para miniaturas e player horizontal. Build/typecheck de framework não se aplicam.

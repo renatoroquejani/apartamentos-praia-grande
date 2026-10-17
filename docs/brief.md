@@ -31,3 +31,7 @@ Fotos publicadas sem tratamento generativo: sacada com mar, mesa na sacada e ban
 ## Apartamento de 1 dormitório, 19º andar
 
 Usuário informou Edifício Maschietto, frente para o mar, sacada, até oito pessoas e reforma em andamento. Uma filmagem fornecida; número da unidade desconhecido. Usado permalink descritivo, sem inventar identificação. Separado no catálogo em Em preparação. Vídeo anterior à conclusão, com aviso no site e na faixa gráfica. Capacidade original 8–10 corrigida para até 8 segundo o usuário, e telefone substituído pelo contato autorizado da Fernanda. Não se presumiram os equipamentos das kitnets.
+
+## Apartamento de 3 dormitórios — 11º andar
+
+Usuário informou frente para o mar, Edifício Maschietto, três dormitórios, dois banheiros e até dez pessoas. Número da unidade não fornecido: nome e permalink descritivos. Quatorze fotografias e um vídeo. Não se presumiram sacada, equipamentos de praia ou configuração de todos os dormitórios. Sete fotos mais escuras foram tratadas com GPT Image; vistas, jantar e ângulo do armário permaneceram originais.

@@ -14,3 +14,9 @@ Use case: lighting-weather. Asset type: existing real-estate listing photograph.
 
 Conservative photo restoration ONLY of this exact attached image. Keep composition, camera viewpoint, crop, all objects and original colors strictly unchanged. The room, all four chairs, table and tablecloth, TV, cables, outlets, floor tile geometry, curtain, partial bed and window must match the input. Improve only exposure, noise and modest sharpness. Do NOT replace textures or invent finer patterns in blurred areas: retain the original blur wherever details are unknown. DO NOT change the sky/ocean seen at the right edge: original overcast gray sky and muted gray sea, never blue sky or new white clouds. No staging, no cleaning up imperfections, no interior redesign or re-rendering, no object replacement. The result should be almost indistinguishable from the original, a mild photographic correction. Original 3:4 aspect ratio, same framing, no text.
 
+
+## Apartamento de 3 dormitórios, 11º andar — 17/10/2026
+
+GPT Image aplicado individualmente a janela, cozinha, cozinha-equipamentos, quarto-casal, quarto-camas, poltrona e sala. Prompt: conservative photographic exposure correction only; lift dark interior shadows slightly, balance white temperature, mild noise reduction/sharpness. Preserve exact framing, aspect ratio, furniture, bedding patterns, objects, wall/floor condition and imperfections, dimensions, windows and outside view. No renovation, staging, object removal/replacement, altered sky, fake sunlight or new features. Natural documentary property photo.
+
+Arquivos selecionados com sufixo -tratada.jpg e seus originais sem sufixo em dist/assets/apto-11-andar. As demais sete fotos não receberam tratamento. Saídas comparadas visualmente; nenhum redesenho material identificado. Os originais continuam acessíveis no modal para verificar detalhes.

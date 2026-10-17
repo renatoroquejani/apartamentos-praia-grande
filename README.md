@@ -8,7 +8,7 @@ Na pasta locacoes, execute `python3 -m http.server 4173 --directory dist` e abra
 
 ## Publicar
 
-Site: https://renatoroquejani.github.io/apartamentos-praia-grande/
+Site: https://aptospg.com.br/
 Repositório: https://github.com/renatoroquejani/apartamentos-praia-grande
 
 Alterações em dist enviadas à main são publicadas automaticamente pelo workflow .github/workflows/pages.yml, sem instalar dependências ou executar build. Só dist é publicado; documentação e arquivos de preparo permanecem no repositório. O Pages está configurado para GitHub Actions. Use links terminados em .html para compartilhar páginas de imóveis.

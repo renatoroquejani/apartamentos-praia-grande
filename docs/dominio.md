@@ -20,3 +20,7 @@ Registros salvos e conferidos no painel, todos em modo Somente DNS:
 Após concluir o registro e ativar a delegação, vincular aptospg.com.br ao GitHub Pages do repositório renatoroquejani/apartamentos-praia-grande, conferir o DNS e a emissão do certificado e ativar Enforce HTTPS quando disponível. Atualizar os og:image para a origem nova. O domínio personalizado ainda não foi ativado no GitHub para preservar o endereço atual enquanto o registro está pendente.
 
 Referência: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
+## Ativação
+
+Registro e pagamento confirmados pelo usuário. Consulta pública confirmou NS elma/kip, os quatro A do GitHub Pages e o CNAME www. Domínio aptospg.com.br vinculado ao repositório GitHub Pages; metadados atualizados para a nova origem.

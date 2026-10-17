@@ -29,3 +29,15 @@
 A pedido do usuário, a montagem única foi substituída por dois vídeos com proporções independentes. O primeiro tinha faixas pretas incorporadas: cropdetect identificou imagem útil 478×638 em x=0,y=106. Recorte aplicado somente às faixas, sem cortar conteúdo útil. Após preparo, cropdetect retorna 478×638 em x=0,y=0; duração 43,65 s. Segundo vídeo remuxado integralmente, incluindo áudio e rotação; duração 78,67 s. Posters extraídos dos arquivos finais, sem barras adicionadas pelo CSS. Em telas até 650 px, vídeos empilhados; até 900 px, coluna de conteúdo ampla para evitar players apertados pelo contato lateral.
 
 As verificações anteriores sobre um único player descrevem uma versão substituída. Estado final esperado: dois players, três fotos tratadas e um modal.
+
+## Kitnet 1027 — inclusão da segunda unidade
+
+- Catálogo lista 928 e 1027; navegação real pelo link da nova unidade confirmada no IAB.
+- Nova página: 10º andar, até 6 pessoas, mesmo endereço; dois vídeos no início e sem galeria de fotos fictícia. Capa e posters extraídos dos vídeos.
+- Os dois MP4 decodificados integralmente sem erros. H.264/AAC, 480×848, 29,257 s e 38,290 s; controles nativos, preload none, sem autoplay. Cropdetect dos originais retorna quadro inteiro, sem faixas a recortar.
+- Faixa de telefone anterior coberta no rodapé direito por Contato Fernanda e (19) 99961-5553, conforme escolha explícita do usuário. Posters dos dois arquivos finais inspecionados visualmente. Demais legendas e áudio preservados.
+- IAB: ambos reproduzindo com avanço de tempo e durações corretas.
+- Todos os HTMLs do catálogo passaram em validação de arquivos, fragmentos e uma h1 por página. WhatsApp da nova página referencia Kitnet 1027 e número autorizado.
+- Layout de 320 px conferido por iframe real: título, capacidade, andar e contato sem corte. Em celular os vídeos ficam empilhados. Sem teste em aparelho físico.
+- Auditoria estática frontend strict: zero achados. git diff --check sem erros. Sem novos scripts no navegador ou dependências.
+- FFmpeg disponível não tem filtro drawtext; a faixa gráfica de contato foi renderizada com biblioteca já instalada e incorporada por overlay. Script de preparo e PNG preservados no projeto.

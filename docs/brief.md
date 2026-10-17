@@ -15,3 +15,9 @@ Verificação: integridade de links/assets e conteúdo, HTTP 200, navegação re
 Marca pública alterada para Apartamentos Praia Grande. Fernanda permanece no contato. Solicitação posterior adiciona modal de fotos com setas e foco em mobile; portanto autoriza o pequeno gallery.js estático, sem dependências. Foto atual é tratada por GPT Image; link de original disponível. Os dois vídeos agora aparecem como um só passeio, com 2 min 02 s. Fontes arquivadas em media/originais.
 
 Atualização posterior: usuário prefere cortar faixas ou voltar a vídeos separados. Escolhidos dois vídeos independentes, com recorte apenas das faixas embutidas do primeiro, preservando o enquadramento integral do segundo.
+
+## Kitnet 1027 — 17/10/2026
+
+Nova unidade informada pelo usuário: Kit 1027, 10º andar, até 6 pessoas, mesmo endereço e descrição geral da unidade anterior. Foram recebidos somente dois vídeos, sem fotos. A capa do catálogo e os posters são quadros dos vídeos, sem geração de fotografias por IA. Vídeos verticais de 480×848, 29,26 s e 38,29 s, sem faixas pretas adicionadas.
+
+Arquivos localizados em Downloads/KIT 1027. Fontes preservadas em media/originais/kit-1027. O usuário autorizou expressamente substituir o telefone gravado nos vídeos pelo contato da Fernanda: (19) 99961-5553. Faixa substituída em x=232,y=800,248×48; áudio, enquadramento e demais legendas preservados. Script de reprodução: docs/preparar-kit-1027.py; arte de contato: media/kit-1027-contato.png.

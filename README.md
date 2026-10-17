@@ -23,3 +23,7 @@ Fontes e decisões: docs/brief.md. Tokens e direção visual: DESIGN.md.
 ## Galeria e fotos tratadas
 
 O visualizador usa dialog nativo com gallery.js: setas, Esc, foco restaurado, bloqueio de rolagem e deslize horizontal. Sem suporte a dialog ou sem JavaScript, os links continuam abrindo as fotos. Cada foto tratada tem sufixo -tratada.jpg; arquivos sem sufixo são originais, disponíveis no link do modal. Prompts e seleção estão em docs/imagegen-prompts.md. Tratamento de IA pode alterar detalhes finos, por isso a indicação e os originais ficam disponíveis.
+
+## Kitnet 1027
+
+Página kitnet-1027.html com dois vídeos no início, sem galeria de fotos. A capa do catálogo é um quadro do vídeo. Vídeos e posters em dist/assets/kit-1027; originais em media/originais/kit-1027. A faixa de telefone foi substituída pelo contato da Fernanda com autorização do usuário. Para reproduzir o preparo, execute python3 docs/preparar-kit-1027.py com FFmpeg disponível. A arte do contato fica em media/kit-1027-contato.png.

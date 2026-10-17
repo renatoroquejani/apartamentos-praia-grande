@@ -31,3 +31,7 @@ Página kitnet-1027.html com dois vídeos no início, sem galeria de fotos. A ca
 ## Kitnet 2014
 
 Cobertura no 20º andar com sacada em L: kitnet-2014.html. Três fotos originais com galeria, vídeo de passeio e vídeo da vista separados. Mídia em dist/assets/kit-2014. Para reproduzir a substituição da faixa de telefone, execute python3 docs/preparar-kit-2014.py com FFmpeg disponível. Os originais são mantidos em media/originais/kit-2014.
+
+## Apartamento de 1 dormitório — 19º andar
+
+Página apartamento-19-andar.html, sem número de unidade informado. Em reforma, na seção Em preparação do catálogo. Vídeo de referência em assets/apto-19-andar/referencia.mp4; substitua vídeo e poster após a conclusão e revise os avisos antes de anunciar disponibilidade. Capacidade informada pelo usuário: oito pessoas. Preparo reproduzível: python3 docs/preparar-apto-19-andar.py.

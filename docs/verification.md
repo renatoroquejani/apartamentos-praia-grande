@@ -53,3 +53,12 @@ As verificações anteriores sobre um único player descrevem uma versão substi
 - Telas de 390 e 320 px conferidas em iframes reais; título, galeria e contato visíveis e proporcionais. Sem teste de gesto em aparelho físico.
 - Todos os quatro HTMLs passam em validação de arquivos, fragmentos e uma h1 por página. Nova página tem três links de foto, dois vídeos e WhatsApp com unidade 2014 e número correto.
 - Auditoria estática frontend strict: zero achados. Sem dependências ou alterações em CSS/JS compartilhados.
+
+## Apartamento de 1 dormitório — 19º andar, em reforma
+
+- Nova página e entrada separada Em preparação; sem prometer liberação para locação. Navegação real do catálogo confirmada.
+- Vídeo inteiro decodificado por FFmpeg sem erros. IAB reproduziu por 7,01 s, duração 60,070 s, 480×848, sem erro de mídia. Controles nativos, preload none, sem autoplay.
+- Poster inspecionado: máscara cobre capacidade e contato anteriores; mostra Em reforma, até 8 pessoas e Fernanda (19) 99961-5553. Original preservado. Cópia para WhatsApp conferida byte a byte.
+- Layouts reais de iframe de 320 e 390 px inspecionados: título, status e contato sem corte. Sem teste em aparelho físico.
+- Cinco HTMLs validados: arquivos e fragmentos resolvem, uma h1 por página; nova página com um player e contatos corretos.
+- Reutilizados template e controles existentes; sem dependências novas ou build/typecheck de framework.

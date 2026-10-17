@@ -27,3 +27,7 @@ Arquivos localizados em Downloads/KIT 1027. Fontes preservadas em media/originai
 Terceira unidade: Kitnet 2014, 20º andar, cobertura com sacada em L, conforme usuário. Vídeo do passeio identifica a porta 2014 e informa 06 pessoas; capacidade mantida em até 6. Mesmo edifício e equipamentos gerais da coleção, com endereço já confirmado. Recebidos três JPEGs originais e dois vídeos, 59,58 s e 15,02 s, ambos verticais 480×848, sem faixas pretas embutidas.
 
 Fotos publicadas sem tratamento generativo: sacada com mar, mesa na sacada e banheiro. Modal compartilhado com a unidade 928. O primeiro vídeo tinha o número anterior na faixa x=224,y=755,256×42; substituído pelo contato da Fernanda seguindo a preferência explícita da unidade 1027. O segundo vídeo não tinha telefone e foi preservado. Áudio e demais legendas mantidos. Fontes em media/originais/kit-2014; script docs/preparar-kit-2014.py e arte media/kit-2014-contato.png. Cópias para compartilhar salvas em Downloads/Kitnet 2014 - Videos para WhatsApp.
+
+## Apartamento de 1 dormitório, 19º andar
+
+Usuário informou Edifício Maschietto, frente para o mar, sacada, até oito pessoas e reforma em andamento. Uma filmagem fornecida; número da unidade desconhecido. Usado permalink descritivo, sem inventar identificação. Separado no catálogo em Em preparação. Vídeo anterior à conclusão, com aviso no site e na faixa gráfica. Capacidade original 8–10 corrigida para até 8 segundo o usuário, e telefone substituído pelo contato autorizado da Fernanda. Não se presumiram os equipamentos das kitnets.

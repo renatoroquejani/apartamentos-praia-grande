@@ -6,4 +6,4 @@ Tokens canônicos em dist/styles.css :root. Areia #f7f5ef, verde #243f36, tinta 
 
 HTML e CSS apenas. Galeria acessível com links para os arquivos integrais; vídeos com controles e sem autoplay. Sem formulários, scripts, cookies ou análise de visitantes. Links de contato não enviam mensagens automaticamente. Idioma pt-BR.
 
-Atualização de 17/10: marca pública Apartamentos Praia Grande, Fernanda somente como contato. Um único player com passeio montado. Fotos melhoradas com GPT Image só para luz, cor e nitidez, preservando a aparência real. Originais disponíveis para comparação.
+Atualização de 17/10: marca pública Apartamentos Praia Grande, Fernanda somente como contato. Dois players com proporções próprias; o primeiro sem as faixas pretas embutidas. Não cortar conteúdo útil só para uniformizar proporções. Fotos melhoradas com GPT Image só para luz, cor e nitidez, preservando a aparência real. Originais disponíveis para comparação.

@@ -16,7 +16,7 @@ Duplique kitnet-928.html para criar a página de outro apartamento, troque fotos
 
 Contato: +55 19 99961-5553, presente nos dois HTMLs e links wa.me/tel. Os links abrem uma mensagem editável; nada é enviado automaticamente.
 
-O vídeo único está em assets/kit-928/passeio-completo.mp4, H.264/AAC, vertical 480 × 854, com faststart e preload none. As fontes anteriores estão em media/originais. Reprodução da montagem: python3 docs/editar-video.py (requer FFmpeg instalado). Não foram enviados ao YouTube. Para usar YouTube, publique na conta escolhida e substitua o player por embeds com título acessível e carregamento lazy. Não é necessário mudar o restante do site.
+Os vídeos ficam em assets/kit-928/ambientes.mp4 (478×638, sem as faixas pretas embutidas) e passeio.mp4 (480×848 após rotação). Usam H.264/AAC, faststart e preload none. As fontes anteriores estão em media/originais. Reprodução do preparo: python3 docs/editar-video.py (requer FFmpeg instalado). Não foram enviados ao YouTube. Para usar YouTube, publique na conta escolhida e substitua os players por embeds com título acessível e carregamento lazy. Não é necessário mudar o restante do site.
 
 Fontes e decisões: docs/brief.md. Tokens e direção visual: DESIGN.md.
 

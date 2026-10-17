@@ -23,3 +23,9 @@
 - Auditoria estática frontend strict: zero achados.
 - Fotos: primeira tentativa de sala e vista foi rejeitada por alterar céu. Versões mais discretas selecionadas. O tratamento é generativo; detalhes finos não são garantidos idênticos. Indicação pública e acesso aos originais incluídos. Prompts em imagegen-prompts.md.
 - Captura de modal móvel em .omx/qa/revisao-2/galeria-mobile.png. Sem referência visual externa de UI para pontuar fidelidade; inspeção visual do resultado e comparação das fotos realizadas.
+
+## Revisão 3 — proporções dos vídeos
+
+A pedido do usuário, a montagem única foi substituída por dois vídeos com proporções independentes. O primeiro tinha faixas pretas incorporadas: cropdetect identificou imagem útil 478×638 em x=0,y=106. Recorte aplicado somente às faixas, sem cortar conteúdo útil. Após preparo, cropdetect retorna 478×638 em x=0,y=0; duração 43,65 s. Segundo vídeo remuxado integralmente, incluindo áudio e rotação; duração 78,67 s. Posters extraídos dos arquivos finais, sem barras adicionadas pelo CSS. Em telas até 650 px, vídeos empilhados; até 900 px, coluna de conteúdo ampla para evitar players apertados pelo contato lateral.
+
+As verificações anteriores sobre um único player descrevem uma versão substituída. Estado final esperado: dois players, três fotos tratadas e um modal.

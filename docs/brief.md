@@ -13,3 +13,5 @@ Verificação: integridade de links/assets e conteúdo, HTTP 200, navegação re
 ## Revisão solicitada em 17/10
 
 Marca pública alterada para Apartamentos Praia Grande. Fernanda permanece no contato. Solicitação posterior adiciona modal de fotos com setas e foco em mobile; portanto autoriza o pequeno gallery.js estático, sem dependências. Foto atual é tratada por GPT Image; link de original disponível. Os dois vídeos agora aparecem como um só passeio, com 2 min 02 s. Fontes arquivadas em media/originais.
+
+Atualização posterior: usuário prefere cortar faixas ou voltar a vídeos separados. Escolhidos dois vídeos independentes, com recorte apenas das faixas embutidas do primeiro, preservando o enquadramento integral do segundo.

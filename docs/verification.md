@@ -89,3 +89,7 @@ Repositório público renatoroquejani/apartamentos-praia-grande criado a pedido 
 ## Compartilhamento por cópia de link
 
 Botão Compartilhar apartamento adicionado nas seis páginas de imóvel; share.js compartilhado, sem dependências. Teste real no IAB confirmou clipboard com URL exata e limpa, incluindo acesso com parâmetros e #fotos; clipboard anterior restaurado após QA local. Casos sucesso, permissão negada e API indisponível verificados em ambiente Node isolado executando o script real: mensagens corretas, fallback selecionado e botão reativado. Layouts 320/390 px conferidos; botão de pelo menos 44 px e confirmação acessível. Sete HTMLs, referências e ordem preservados; sintaxe dos dois scripts e auditoria strict sem achados. Sem teste em aparelho físico.
+
+## Pegasus — passeio completo
+
+Dois trechos emendados em um player. Sobreposição identificada comparando o fim do primeiro com o começo do segundo: RMS da luminância reduzida de 1,65 no quadro correspondente (~3,33 s do segundo). Corte em 3,366667 s após o último quadro repetido. Quadros da montagem em 96,9/97,1/97,4 s inspecionados: movimento contínuo, sem retorno ao sofá, barras ou transição artificial. Saída H.264/AAC, 848×480, 30 fps, duração 162,261 s. Decode integral sem erros; IAB confirmou reprodução em7,85s sem erro. Cópia completa para WhatsApp conferida por SHA-256. Fonte e script reproduzível preservados. Página e card agora descrevem um vídeo completo; demais imóveis inalterados.

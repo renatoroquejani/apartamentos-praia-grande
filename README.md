@@ -47,7 +47,7 @@ Página apartamento-3-dormitorios.html. Quatorze fotos em assets/apto-11-andar; 
 
 ## Guilhermina — Edifício Pegasus
 
-Página apartamento-guilhermina.html: oito fotos selecionadas, quatro interiores tratados com GPT Image e originais acessíveis no modal; dois vídeos horizontais sem recompressão. Preparo reproduzível: python3 docs/preparar-pegasus.py. Mídia em dist/assets/pegasus-guilhermina. Endereço completo e andar não informados; o mapa abre uma busca pelo edifício/bairro.
+Página apartamento-guilhermina.html: oito fotos selecionadas, quatro interiores tratados com GPT Image e originais acessíveis no modal; um vídeo horizontal completo, emendado a partir dos dois trechos originais, sem repetir a sobreposição. Preparo reproduzível: python3 docs/preparar-pegasus.py. Mídia em dist/assets/pegasus-guilhermina. Endereço completo e andar não informados; o mapa abre uma busca pelo edifício/bairro.
 
 ## Compartilhar apartamento
 

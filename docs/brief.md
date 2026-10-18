@@ -41,3 +41,7 @@ Usuário informou frente para o mar, Edifício Maschietto, três dormitórios, d
 Usuário informou três dormitórios, frente para o mar, suíte, ar-condicionado, duas sacadas, duas vagas, frigobar e até dez pessoas. Sem número de unidade, andar ou endereço exato. Não reutilizar endereço do Maschietto. Recebidas nove fotos distintas por SHA-256; excluído da seleção o ângulo menos nítido da sala de jantar com sofá em primeiro plano (19.59.01 (2)), redundante com a foto de jantar. Oito fotos finais; quatro interiores tratados e vistas originais preservadas. Dois vídeos sem telefone/faixas, remuxados com faststart.
 
 Ordem pedida: três dormitórios Maschietto, um dormitório, kitnets, Guilhermina e reforma por último. O único imóvel de um dormitório cadastrado é justamente o que está em reforma. Foi solicitada clarificação; sem outra unidade informada, mantido somente no fim, sem duplicar imóvel ou inventar entrada. Ordem dos seis: Maschietto 3 dormitórios, 928, 1027, 2014, Pegasus, reforma. Abertura acompanha o primeiro imóvel.
+
+## Emenda dos vídeos Pegasus
+
+Usuário esclareceu que são dois trechos de um mesmo passeio. Comparação de quadros detectou início repetido no segundo; removidos 3,366667 s antes da concatenação. Um único vídeo de 162,261 s mantém resolução 848×480 e áudio. Trechos originais preservados; links antigos de arquivos continuam disponíveis, mas a página usa só passeio-completo.mp4.

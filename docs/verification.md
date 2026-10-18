@@ -93,3 +93,7 @@ Botão Compartilhar apartamento adicionado nas seis páginas de imóvel; share.j
 ## Pegasus — passeio completo
 
 Dois trechos emendados em um player. Sobreposição identificada comparando o fim do primeiro com o começo do segundo: RMS da luminância reduzida de 1,65 no quadro correspondente (~3,33 s do segundo). Corte em 3,366667 s após o último quadro repetido. Quadros da montagem em 96,9/97,1/97,4 s inspecionados: movimento contínuo, sem retorno ao sofá, barras ou transição artificial. Saída H.264/AAC, 848×480, 30 fps, duração 162,261 s. Decode integral sem erros; IAB confirmou reprodução em7,85s sem erro. Cópia completa para WhatsApp conferida por SHA-256. Fonte e script reproduzível preservados. Página e card agora descrevem um vídeo completo; demais imóveis inalterados.
+
+## Prévia da página inicial
+
+Metadado og:image da página inicial alinhado à foto de capa atual (vista do mar do apartamento de 3 dormitórios), com descrição alternativa. Referência local existente e HTML conferidos; sem alteração no layout ou nos metadados individuais dos imóveis.

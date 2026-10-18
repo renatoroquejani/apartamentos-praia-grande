@@ -44,3 +44,7 @@ Página apartamento-19-andar.html, sem número de unidade informado. Em reforma,
 ## Apartamento de 3 dormitórios — 11º andar
 
 Página apartamento-3-dormitorios.html. Quatorze fotos em assets/apto-11-andar; sete interiores tratados com GPT Image e originais preservados para comparação. Três destaques e miniaturas adicionais expansíveis usam o mesmo modal. Vídeo horizontal preservado sem recompressão, com faststart: python3 docs/preparar-apto-11-andar.py.
+
+## Guilhermina — Edifício Pegasus
+
+Página apartamento-guilhermina.html: oito fotos selecionadas, quatro interiores tratados com GPT Image e originais acessíveis no modal; dois vídeos horizontais sem recompressão. Preparo reproduzível: python3 docs/preparar-pegasus.py. Mídia em dist/assets/pegasus-guilhermina. Endereço completo e andar não informados; o mapa abre uma busca pelo edifício/bairro.

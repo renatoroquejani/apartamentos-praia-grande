@@ -20,3 +20,7 @@ Conservative photo restoration ONLY of this exact attached image. Keep compositi
 GPT Image aplicado individualmente a janela, cozinha, cozinha-equipamentos, quarto-casal, quarto-camas, poltrona e sala. Prompt: conservative photographic exposure correction only; lift dark interior shadows slightly, balance white temperature, mild noise reduction/sharpness. Preserve exact framing, aspect ratio, furniture, bedding patterns, objects, wall/floor condition and imperfections, dimensions, windows and outside view. No renovation, staging, object removal/replacement, altered sky, fake sunlight or new features. Natural documentary property photo.
 
 Arquivos selecionados com sufixo -tratada.jpg e seus originais sem sufixo em dist/assets/apto-11-andar. As demais sete fotos não receberam tratamento. Saídas comparadas visualmente; nenhum redesenho material identificado. Os originais continuam acessíveis no modal para verificar detalhes.
+
+## Pegasus Guilhermina
+
+GPT Image editou individualmente sala (19.59.03), jantar (19.59.02 (1)), cozinha (19.59.01) e lavanderia (19.59.01 (3)). Prompt: conservative exposure/shadow lifting, white balance and mild denoise/sharpness; keep exact framing, furniture, appliances, objects, patterns, wear and imperfections; no staging, renovation, object removal, changed weather or invented content in overexposed areas. Quatro saídas selecionadas após comparação visual. JPGs -tratada com originais acessíveis. As vistas não foram alteradas.

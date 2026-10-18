@@ -35,3 +35,9 @@ Usuário informou Edifício Maschietto, frente para o mar, sacada, até oito pes
 ## Apartamento de 3 dormitórios — 11º andar
 
 Usuário informou frente para o mar, Edifício Maschietto, três dormitórios, dois banheiros e até dez pessoas. Número da unidade não fornecido: nome e permalink descritivos. Quatorze fotografias e um vídeo. Não se presumiram sacada, equipamentos de praia ou configuração de todos os dormitórios. Sete fotos mais escuras foram tratadas com GPT Image; vistas, jantar e ângulo do armário permaneceram originais.
+
+## Edifício Pegasus, Guilhermina
+
+Usuário informou três dormitórios, frente para o mar, suíte, ar-condicionado, duas sacadas, duas vagas, frigobar e até dez pessoas. Sem número de unidade, andar ou endereço exato. Não reutilizar endereço do Maschietto. Recebidas nove fotos distintas por SHA-256; excluído da seleção o ângulo menos nítido da sala de jantar com sofá em primeiro plano (19.59.01 (2)), redundante com a foto de jantar. Oito fotos finais; quatro interiores tratados e vistas originais preservadas. Dois vídeos sem telefone/faixas, remuxados com faststart.
+
+Ordem pedida: três dormitórios Maschietto, um dormitório, kitnets, Guilhermina e reforma por último. O único imóvel de um dormitório cadastrado é justamente o que está em reforma. Foi solicitada clarificação; sem outra unidade informada, mantido somente no fim, sem duplicar imóvel ou inventar entrada. Ordem dos seis: Maschietto 3 dormitórios, 928, 1027, 2014, Pegasus, reforma. Abertura acompanha o primeiro imóvel.

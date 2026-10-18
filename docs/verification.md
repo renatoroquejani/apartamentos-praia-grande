@@ -75,3 +75,13 @@ As verificações anteriores sobre um único player descrevem uma versão substi
 ## Migração para GitHub Pages
 
 Repositório público renatoroquejani/apartamentos-praia-grande criado a pedido do usuário; origin configurado e histórico enviado sem sobrescrever repositórios existentes. GitHub Pages com fonte GitHub Actions e HTTPS ativado. Workflow Publish GitHub Pages concluiu com sucesso no commit 69149749e19f6dfd057ec582c21f9aa84a4bd9b5 (run 39079216857). Publica somente dist; metadados de compartilhamento atualizados nos seis HTMLs para a nova origem. Actions fixadas aos SHAs das versões oficiais verificadas. Navegação catálogo → apartamento de três dormitórios e modal com foto tratada/original confirmados na URL publicada. Monitor auxiliar ci_monitor.cjs não está instalado nesta cópia do skill; status verificado pela API oficial do GitHub via gh.
+
+## Guilhermina e ordenação do catálogo
+
+- Sete HTMLs validados: arquivos e fragmentos locais resolvem, uma h1 por página. Pegasus tem oito fotos únicas, quatro tratadas com originais distintos, um modal e dois players. Links WhatsApp identificam Pegasus/Guilhermina e o contato correto.
+- Dados copiados do Maschietto removidos: não há andar/endereço/CEP/quantidade de banheiros presumidos. Mapa é busca pelo edifício e bairro.
+- Comparação visual das quatro fotos tratadas com as originais: enquadramento, mobiliário e aparência preservados; tratamento generativo pode alterar detalhes finos. Link de original e indicação de IA disponíveis.
+- Galeria desktop: 2/8 → 3/8 → 2/8 por botão/teclado; Esc restaura foco. Modal em 320 px contém imagem inteira, fechar, setas e original. Layout em 320/390 px inspecionado; sem aparelho físico.
+- Dois vídeos horizontais H.264/AAC 848×480, 97,059 s e 68,569 s. Decode integral sem erros, originais preservados e cópias WhatsApp verificadas por SHA-256. IAB reproduziu ambos em 13,75 e 13,48 s, sem erro de mídia. Sem faixas pretas ou contato antigo nas amostras revisadas.
+- Ordem de seis cards validada em código e no navegador: 3 dormitórios Maschietto, 928, 1027, 2014, Guilhermina, reforma. Imagem de abertura agora representa o primeiro imóvel.
+- node --check gallery.js, git diff --check e auditoria premium strict passaram, zero achados. Reutilizado o template e galeria existentes; sem dependências ou CSS/JS adicionais.

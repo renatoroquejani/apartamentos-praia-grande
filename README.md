@@ -1,6 +1,6 @@
 # Apartamentos Praia Grande
 
-Site independente em `dist/`: HTML, CSS, fotos, vídeo e um pequeno JavaScript para a galeria. Sem dependências, banco de dados ou etapa de build. O restante da pasta fernanda-shopee é outro trabalho e não integra este site.
+Site independente em `dist/`: HTML, CSS, fotos, vídeo e pequenos scripts JavaScript para a galeria e a cópia de links. Sem dependências, banco de dados ou etapa de build. O restante da pasta fernanda-shopee é outro trabalho e não integra este site.
 
 ## Visualizar
 
@@ -48,3 +48,7 @@ Página apartamento-3-dormitorios.html. Quatorze fotos em assets/apto-11-andar; 
 ## Guilhermina — Edifício Pegasus
 
 Página apartamento-guilhermina.html: oito fotos selecionadas, quatro interiores tratados com GPT Image e originais acessíveis no modal; dois vídeos horizontais sem recompressão. Preparo reproduzível: python3 docs/preparar-pegasus.py. Mídia em dist/assets/pegasus-guilhermina. Endereço completo e andar não informados; o mapa abre uma busca pelo edifício/bairro.
+
+## Compartilhar apartamento
+
+Cada página de imóvel tem botão perto do título para copiar sua própria URL sem query string ou fragmento. share.js usa Clipboard API, confirma a cópia em uma região de status e oferece campo selecionado para cópia manual se o navegador bloquear a API. Sem JavaScript, o botão fica oculto e os links/fotos continuam disponíveis.

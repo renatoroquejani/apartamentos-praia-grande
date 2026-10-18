@@ -85,3 +85,7 @@ Repositório público renatoroquejani/apartamentos-praia-grande criado a pedido 
 - Dois vídeos horizontais H.264/AAC 848×480, 97,059 s e 68,569 s. Decode integral sem erros, originais preservados e cópias WhatsApp verificadas por SHA-256. IAB reproduziu ambos em 13,75 e 13,48 s, sem erro de mídia. Sem faixas pretas ou contato antigo nas amostras revisadas.
 - Ordem de seis cards validada em código e no navegador: 3 dormitórios Maschietto, 928, 1027, 2014, Guilhermina, reforma. Imagem de abertura agora representa o primeiro imóvel.
 - node --check gallery.js, git diff --check e auditoria premium strict passaram, zero achados. Reutilizado o template e galeria existentes; sem dependências ou CSS/JS adicionais.
+
+## Compartilhamento por cópia de link
+
+Botão Compartilhar apartamento adicionado nas seis páginas de imóvel; share.js compartilhado, sem dependências. Teste real no IAB confirmou clipboard com URL exata e limpa, incluindo acesso com parâmetros e #fotos; clipboard anterior restaurado após QA local. Casos sucesso, permissão negada e API indisponível verificados em ambiente Node isolado executando o script real: mensagens corretas, fallback selecionado e botão reativado. Layouts 320/390 px conferidos; botão de pelo menos 44 px e confirmação acessível. Sete HTMLs, referências e ordem preservados; sintaxe dos dois scripts e auditoria strict sem achados. Sem teste em aparelho físico.
